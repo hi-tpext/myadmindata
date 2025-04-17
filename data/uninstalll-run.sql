@@ -1,14 +1,6 @@
-DROP TABLE IF EXISTS `__PREFIX__agent_level`;
+/*为了数据安全，不提供自动卸载，请手动删除相关表*/
 
-DROP TABLE IF EXISTS `__PREFIX__cms_banner` ;
-
-DROP TABLE IF EXISTS `__PREFIX__cms_category` ;
-
-DROP TABLE IF EXISTS `__PREFIX__cms_content` ;
-
-DROP TABLE IF EXISTS `__PREFIX__cms_position` ;
-
-DROP TABLE IF EXISTS `__PREFIX__cms_tag` ;
+/* DROP TABLE IF EXISTS `__PREFIX__agent_level`;
 
 DROP TABLE IF EXISTS `__PREFIX__delivery_log` ;
 
@@ -59,3 +51,5 @@ DROP TABLE IF EXISTS `__PREFIX__shop_order_delivery`;
 DROP TABLE IF EXISTS `__PREFIX__shop_order_goods` ;
 
 DROP TABLE IF EXISTS `__PREFIX__shop_tag`;
+
+*/
